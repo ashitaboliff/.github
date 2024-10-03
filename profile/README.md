@@ -1,12 +1,14 @@
-## Welcome to the team 🙌
+## あしたぼ総合ホームページのGitHubへようこそ
 
-<!--
+### 概要
+このOrganizationは2024年現在、信州大学工学部軽音のあしたぼ、その総合ホームページの作成のために作られたものです。  
+あしたぼでの活動体験をよりよくするため、また外部からあしたぼの活動をより知ってもらうために@watabeggが企画し、実行しています。
 
-**Here are some ideas to get you started:**
+### ドキュメント
+公的なドキュメントはまだ用意していません。
 
-🙋‍♀️ A short introduction - what is your organization all about?
-👀 Contribution guidelines - how do team members dive in?
-👩‍💻 Useful resources - where do you keep your docs? Is there anything else the team should know?
-🍪 Fun facts - what is your team's favorite snack?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 開発への参加
+新規機能の実装や、デザイン、インフラの改修、またはこのプロジェクトの引継ぎを行いたい方は各種SNS@watabeggまでお尋ねください。
+
+また、こんな機能を実装してほしいなどの要望があり、GitHubのアカウントを持っているなら気軽にIssueをお送りください。  
+残念ながらGitHubのアカウントがない方はあしたぼ総合ホームページ内のお問い合わせ(未実装)からお尋ねください。
